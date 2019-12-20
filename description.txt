@@ -1,0 +1,1 @@
+This mod allows you to place smoking as well as smokeless fake fire and fancy fire nodes that change color when hit. There are also different styles of chimney's that smoke and stop smoking when hit.
