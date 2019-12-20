@@ -29,4 +29,4 @@ Note - This mod was tested on minetest 5.0.1 and works without errors on MineClo
 It does what I want it to do. Feel free to hack it.
 
 
---![Preview](http://*.png)
+--![Preview](https://i.imgur.com/oFhdfro.png)
