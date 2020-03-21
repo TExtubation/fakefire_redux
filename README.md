@@ -1,5 +1,7 @@
 ## FakeFire_Redux ##
 
+v0.99
+
 A decoration only mod filled with propa... fire and fire related accessories.
 
 A fairly extensive rewrite (though admittedly, probably not a good one) of the fake_fire mod(s) found around the minetest forums, as well as other various mods. It started out as a way to make chimneys produce smoke when you started the server, so you didn't have to go around hitting them to make them smoke, and well, it grew into this.
