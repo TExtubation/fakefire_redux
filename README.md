@@ -31,4 +31,5 @@ Note - This mod was tested on minetest 5.0.1, 5.2, 5.3 and works without errors 
 It does what I want it to do. Feel free to hack it.
 
 
---![Preview](https://i.imgur.com/oFhdfro.png)
+![Preview](https://i.imgur.com/oFhdfro.png)
+![](https://github.com/TExtubation/fakefire_redux/blob/master/fireredux2.gif)
