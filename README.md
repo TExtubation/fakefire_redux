@@ -25,7 +25,7 @@ The colored fire animations are hue shifted copies of the original fake_fire ani
 ### Depends ###
 default? As it only relies on the default texture names used for the chimneys.
 
-Note - This mod was tested on minetest 5.0.1, 5.2, 5.3 and works without errors on MineClone2, Lord-of-the-Test, Regnum, Farlands, and Minetest_Game, as they all use the default stone and brick texture names.
+Note - This mod was tested on minetest 5.0.1 - 5.7.0 and works without errors on MineClone2, Lord-of-the-Test, Regnum, Farlands, and Minetest_Game, as they all use the default stone and brick texture names.
 
 ##### ToDo
 It does what I want it to do. Feel free to hack it.
